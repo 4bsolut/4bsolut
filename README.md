@@ -48,10 +48,9 @@ graph LR
 
 ### 📈 GitHub Impact & Performance
 
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D4bsolut%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D4bsolut%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" /> </p>
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D4bsolut%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="4bsolut Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D4bsolut%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" /> </p>
 
-<p align="center"> <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D4bsolut%26theme%3Dtokyonight%26no-frame%3Dtrue%26column%3D7" /> </p>
-
+<p align="center"> <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D4bsolut%26theme%3Dtokyonight%26no-frame%3Dtrue%26column%3D7" alt="4bsolut Trophies" /> </p>
 ---
 
 ### 🤝 Let's Build Something Great
