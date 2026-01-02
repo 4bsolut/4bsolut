@@ -60,10 +60,8 @@ graph LR
 ### 🤝 Let's Build Something Great
 I am always open to discussing complex architectures, high-performance systems, or the next big startup challenge.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/4bsolut)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6E5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4bsolut)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-requena-567b6121)
+ 
 ---
 
 <p align="center">
