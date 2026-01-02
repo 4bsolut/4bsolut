@@ -64,6 +64,4 @@ I am always open to discussing complex architectures, high-performance systems, 
  
 ---
 
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="Snake Animation" />
-</p>
+ 
