@@ -49,12 +49,16 @@ graph LR
 ### 📈 GitHub Impact & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4bsolut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="4bsolut Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bsolut&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+
+![4bsolut Stats](https://github-readme-stats.vercel.app/api?username=4bsolut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4bsolut&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4bsolut&theme=tokyonight&no-frame=true&column=7" alt="4bsolut Trophies" />
+
+![4bsolut Trophies](https://github-profile-trophy.vercel.app/?username=4bsolut&theme=tokyonight&no-frame=true&column=7)
+
 </p>
 
 ---
