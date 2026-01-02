@@ -34,12 +34,30 @@ My focus is on **architectures that survive growth**, not just code that works t
 ## 🚀 From Idea to Global Scale
 
 ~~~mermaid
-graph LR
-    A[Product Vision] --> B[Clean Architecture]
-    B --> C[Automated CI/CD]
-    C --> D[Kubernetes & IaC]
-    D --> E[Observability & Resilience]
-    E --> F[Global Scale Platform]
+flowchart LR
+    A[🧠 Product Vision] --> B[📐 Clean Architecture]
+    
+    B --> C{🧪 Quality Gates}
+    C -->|Tests Pass| D[🔁 Automated CI/CD]
+    C -->|Fail| B
+    
+    D --> E{🚦 Deployment Strategy}
+    E -->|Blue/Green| F[☸️ Kubernetes Cluster]
+    E -->|Canary| F
+    
+    F --> G{📊 Observability}
+    G -->|Healthy| H[🌍 Global Scale Platform]
+    G -->|Degradation| I[♻️ Auto-Healing]
+    
+    I --> F
+    
+    H --> J{📈 Load Growth?}
+    J -->|Yes| K[📦 Auto-Scaling]
+    J -->|No| L[🛡️ Cost Optimization]
+    
+    K --> H
+    L --> H
+
 ~~~
 
 ---
