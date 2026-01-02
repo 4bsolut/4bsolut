@@ -46,9 +46,7 @@ graph LR
 
 ## 🏗️ Reference Architecture (Typical Engagement)
 
-<p align="center">
-  <img src="./assets/architecture-dark.png" width="900" alt="Cloud Native Architecture"/>
-</p>
+
 
 This represents:
 - Stateless services on Kubernetes
