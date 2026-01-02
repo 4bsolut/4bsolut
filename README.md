@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Kubernetes+%26+IaC+Expert+%7C+CI%2FCD+Automator;Building+High-Impact+Startup+MVPs;Full-Stack%3A+Python,+Java,+PHP,+JS,+Ruby;Mobile%3A+Flutter,+React+Native,+Obj-C;There+are+no+impossible+tasks](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Kubernetes+%26+IaC+Expert+%7C+CI%2FCD+Automator;Building+High-Impact+Startup+MVPs;Full-Stack%3A+Python,+Java,+PHP,+JS,+Ruby;Mobile%3A+Flutter,+React+Native,+Obj-C;There+are+no+impossible+tasks)." alt="Typing Bio" /></a>
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Kubernetes+%26+IaC+Expert+%7C+CI%2FCD+Automator;Building+High-Impact+Startup+MVPs;Full-Stack%3A+Python,+Java,+PHP,+JS,+Ruby;Mobile%3A+Flutter,+React+Native,+Obj-C;There+are+no+impossible+tasks." />
+  </a>
 </p>
 
 > **"There are no impossible tasks, only architectures waiting to be optimized."**
