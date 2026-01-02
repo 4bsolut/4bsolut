@@ -49,13 +49,21 @@ graph LR
 ### 📈 GitHub Impact & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4bsolut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="4bsolut Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bsolut&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4bsolut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="4bsolut Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bsolut&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=4bsolut&theme=tokyonight&no-frame=true&column=7" alt="4bsolut Trophies" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+
 ---
 
 ### 🤝 Let's Build Something Great
