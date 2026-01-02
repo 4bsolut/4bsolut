@@ -1,13 +1,11 @@
-# ⚡ 4bsolut | Senior Full-Stack Architect & DevOps Lead
+# ⚡ Jorge Requena R. | Senior Full-Stack Architect & DevOps Lead
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Architecting%20Scalable%20Systems&fontSize=40&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Architecting%20Scalable%20Systems&fontSize=40&animation=fadeIn)" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Architecting%20Scalable%20Systems&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Kubernetes+%26+IaC+Expert+%7C+CI%2FCD+Automator;Building+High-Impact+Startup+MVPs;Full-Stack%3A+Python,+Java,+PHP,+JS,+Ruby;Mobile%3A+Flutter,+React+Native,+Obj-C;There+are+no+impossible+tasks." />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Kubernetes+%26+IaC+Expert+%7C+CI%2FCD+Automator;Building+High-Impact+Startup+MVPs;Full-Stack%3A+Python,+Java,+PHP,+JS,+Ruby;Mobile%3A+Flutter,+React+Native,+Obj-C;There+are+no+impossible+tasks." />
 </p>
 
 > **"There are no impossible tasks, only architectures waiting to be optimized."**
@@ -50,14 +48,9 @@ graph LR
 
 ### 📈 GitHub Impact & Performance
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=4bsolut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=4bsolut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" alt="4bsolut Stats" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=4bsolut&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=4bsolut&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D4bsolut%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D4bsolut%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" /> </p>
 
-<p align="center">
-  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)"><img src="[https://github-profile-trophy.vercel.app/?username=4bsolut&theme=tokyonight&no-frame=true&column=7](https://github-profile-trophy.vercel.app/?username=4bsolut&theme=tokyonight&no-frame=true&column=7)" alt="4bsolut Trophies" /></a>
-</p>
+<p align="center"> <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D4bsolut%26theme%3Dtokyonight%26no-frame%3Dtrue%26column%3D7" /> </p>
 
 ---
 
