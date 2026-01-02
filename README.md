@@ -1,67 +1,143 @@
-# ⚡ Jorge Requena R. | Senior Full-Stack Architect & DevOps Lead
+# ⚡ Jorge Requena R.
+## Senior Full-Stack Architect · DevOps Lead · Cloud-Native Systems
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Architecting%20Scalable%20Systems&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Architecting%20Scalable%20Systems&fontSize=42&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Kubernetes+%26+IaC+Expert+%7C+CI%2FCD+Automator;Building+High-Impact+Startup+MVPs;Full-Stack%3A+Python,+Java,+PHP,+JS,+Ruby;Mobile%3A+Flutter,+React+Native,+Obj-C;There+are+no+impossible+tasks." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Senior+Architect+%7C+Staff-Level+Engineer;Cloud-Native+Systems+%26+Kubernetes+at+Scale;From+Startup+MVP+to+Global+Platforms;DevOps%2C+CI%2FCD+%26+Infrastructure+as+Code;There+are+no+impossible+tasks." />
 </p>
 
-> **"There are no impossible tasks, only architectures waiting to be optimized."**
-> A versatile Software Engineer specialized in bridging the gap between rapid MVP development and robust, high-availability cloud infrastructure.
+> **“There are no impossible tasks, only architectures waiting to be optimized.”**
+
+I design, build, and scale **cloud-native systems** that balance **startup velocity** with **enterprise-grade reliability**.  
+My focus is on **architectures that survive growth**, not just code that works today.
 
 ---
 
-### 🚀 The Engineering Life Cycle (Idea to Global Scale)
+## 🧠 Engineering Philosophy
 
-My workflow integrates advanced development paradigms with elastic infrastructure as code from day one.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Scalability%20%26%20Resilience-7AA2F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mindset-Architecture%20First-9ECE6A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Approach-Systems%20Thinking-BB9AF7?style=for-the-badge"/>
+</p>
 
-```mermaid
+- Architecture is a **business decision**, not only a technical one
+- Systems must **scale teams**, not just traffic
+- Automation is mandatory — manual processes don’t scale
+- MVPs should be **production-aware from day one**
+
+---
+
+## 🚀 From Idea to Global Scale
+
+~~~mermaid
 graph LR
-    A[Product Vision] --> B(Clean OOP / Reactive UI)
-    B --> C{Automated CI/CD}
-    C --> D[K8s Cluster & IaC]
-    D --> E[Global Resilient MVP]
-```
+    A[Product Vision] --> B[Clean Architecture]
+    B --> C[Automated CI/CD]
+    C --> D[Kubernetes & IaC]
+    D --> E[Observability & Resilience]
+    E --> F[Global Scale Platform]
+~~~
 
 ---
 
-### 🔥 Core Strengths & Tech Ecosystem
-
-| 🏗️ Infra & DevOps | 🧠 Backend & Logic | 📱 Frontend & Mobile |
-| :--- | :--- | :--- |
-| **Kubernetes & IaC:** Expert in container orchestration (K8s) and Infrastructure as Code (Terraform). | **Python (Django) & Java (Spring):** Building enterprise-grade, scalable monolithic and microservice backends. | **ReactJS & AngularJS:** Crafting complex, high-performance Single Page Applications. |
-| **CI/CD Excellence:** Designing friction-free pipelines for high-frequency, reliable releases. | **Multi-Stack PHP Specialist:** Mastery of Laravel, CakePHP, and CodeIgniter frameworks. | **Flutter & React Native:** Delivering seamless, native-feeling cross-platform mobile experiences. |
-| **DevOps Culture:** Deep focus on automation, observability, security, and system resilience. | **Ruby on Rails:** Rapid prototyping and agile backend development for startups. | **PWA & Advanced JS:** Progressive Web Apps utilizing advanced Object-Oriented paradigms. |
-
----
-
-### 🛠️ Specialized Technical Arsenal
-
-- **Systems Programming:** High-performance desktop applications with **C++ (Qt Framework)**.
-- **Legacy & Native Mastery:** Deep expertise in **Objective-C** for specialized Apple environments.
-- **Real-time Ecosystems:** Scalable data synchronization and backend-as-a-service with **Firebase & Firestore**.
-- **Startup Accelerator:** Specialized in engineering services for **MVPs and Startups**. I operate under the principle that learning new technologies is a mandatory evolution for software engineers.
-
----
-
-### 📈 GitHub Impact & Performance
-
- 
+## 🏗️ Reference Architecture (Typical Engagement)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="./assets/architecture-dark.png" width="900" alt="Cloud Native Architecture"/>
 </p>
 
+This represents:
+- Stateless services on Kubernetes
+- Infrastructure as Code (Terraform)
+- CI/CD with zero-downtime deployments
+- Observability built-in (metrics, logs, traces)
+- Cost-aware, production-ready design
 
 ---
 
-### 🤝 Let's Build Something Great
-I am always open to discussing complex architectures, high-performance systems, or the next big startup challenge.
+## 🔥 What I Build (Impact-Oriented)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-requena-567b6121)
- 
+### Platforms & Systems
+- High-availability **SaaS platforms**
+- Kubernetes-based **startup MVPs → scale**
+- Legacy systems **modernized without downtime**
+- Distributed systems with clear ownership boundaries
+
+### Engineering Outcomes
+- Faster delivery **without long-term tech debt**
+- Predictable deployments and rollbacks
+- Systems that survive traffic spikes and team growth
+- Architectures readable by new engineers in weeks
+
 ---
 
- 
+## 🛠️ Technical Domains
+
+### ☁️ Cloud & DevOps
+- Kubernetes (production-grade)
+- Terraform & Infrastructure as Code
+- CI/CD (GitHub Actions, GitLab CI)
+- Observability & monitoring
+- Security-aware system design
+
+### 🧠 Backend & Systems
+- Python (Django)
+- Java (Spring)
+- PHP (Laravel, CakePHP, CodeIgniter)
+- Ruby on Rails
+- API design, async processing, data modeling
+
+### 📱 Frontend & Mobile
+- React, Angular
+- Flutter, React Native
+- Progressive Web Apps
+- Performance-focused UI architecture
+
+---
+
+## 🧭 From MVP to Scale (Lifecycle Ownership)
+
+### 🟢 Phase 1 — MVP
+- Fast delivery with clean architecture
+- CI/CD from day one
+- Early production awareness
+
+### 🟡 Phase 2 — Growth
+- Kubernetes adoption
+- Observability & performance tuning
+- Infrastructure standardization
+
+### 🔵 Phase 3 — Scale
+- Multi-environment readiness
+- Zero-downtime deployments
+- Cost optimization & resilience engineering
+
+---
+
+## 📈 Engineering Footprint
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Activity"/>
+</p>
+
+---
+
+## 🤝 Let’s Build Systems That Last
+
+If you’re:
+- 🚀 Scaling a startup beyond MVP
+- 🧠 Designing complex distributed systems
+- 🏗️ Modernizing legacy infrastructure
+- 🌍 Preparing platforms for global growth
+
+Let’s talk.
+
+<p align="center">
+  <a href="https://linkedin.com/in/jorge-requena-567b6121">
+    <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Requena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
